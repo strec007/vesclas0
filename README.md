@@ -11,7 +11,7 @@ lot more features and is also significantly faster than this version.
 
 * *README.md* is this file,
 * *presentation* directory contains a short presentation about this technique
-  includind two videos.
+  including two videos.
 * *LICENSE* contains the license, and
 * *example_tsem_image.tiff* is an example of a TSEM image of extracellular
   microvesicles
