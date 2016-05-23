@@ -36,7 +36,7 @@ Invoke the program as follows:
 
     python vesclas0.py example_tsem_image.tiff
 
-## Teaking of parameters
+## Tweaking of parameters
 
 At the beginning of the source code, there is a parameter section. If the
 program cannot detect anything in your images, you might need to tweak some
